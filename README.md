@@ -1,2 +1,2 @@
 # crawl_picture
-to collect some pictures
+learn to collect some pictures for fun
